@@ -2233,7 +2233,7 @@ var stations = {
             url: "http://stream3.polskieradio.pl:8080/;"
         },
         {
-            name: "Antyradio",
+            name: "AntyRadio",
             logo: "stations/images-europe/poland/Antyradio.png",
             url: "http://ant-waw-01.cdn.eurozet.pl:8602/;"
         },
@@ -2246,7 +2246,7 @@ var stations = {
         */
         /*
         {
-            name: "Radio Eska",
+            name: "Radio ESKA",
             logo: "stations/images-europe/poland/Radio Eska.png",
             url: "http://waw04.ic1.scdn.smcloud.net/t042-1.mp3"
         },
@@ -2278,12 +2278,12 @@ var stations = {
         },
         */
         {
-            name: "Radio Zet",
+            name: "RadioZET",
             logo: "stations/images-europe/poland/Radio Zet.svg",
             url: "http://redir.atmcdn.pl/sc/o2/Eurozet/live/audio.livx?audio=5"
         },
         {
-            name: "Radio Zet Gold",
+            name: "RadioZET GOLD",
             logo: "stations/images-europe/poland/Radio ZET Gold.png",
             url: "http://zgl.cdn.eurozet.pl/ZGLHIT.mp3"
         },
@@ -2308,7 +2308,7 @@ var stations = {
             url: "http://31.192.216.8/RMFCLASSIC48"
         },
         {
-            name: "Tok FM",
+            name: "TOK FM",
             logo: "stations/images-europe/poland/Tok FM.png",
             url: "http://wroclaw.radio.pionier.net.pl:8000/pl/tuba10-1.mp3"
         },
